@@ -1,5 +1,3 @@
-# InternIntelligence_ATM-Power-BI--Task2
-
 # 🏦 Power BI Report – ATM Data Analysis
 
 ## 📊 Overview
